@@ -1,1 +1,1 @@
-console.log("se subio el primer paso");
+const btn=document.querySelector(".btn").addEventListener("click",()=>{alert("qudaste regristrado")});
